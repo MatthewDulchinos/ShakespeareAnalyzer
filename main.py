@@ -3,7 +3,7 @@
 #Credit to shakespeare.mit.edu for the scripts
 
 #Global Variables
-playFile = 'RandJEntire.txt' #Change this line to whatever play you want to analyze
+playFile = 'Plays\RandJEntire.txt' #Change this line to whatever play you want to analyze
 play = open(playFile,'r')
 lineByLine = play.readlines()
 playLists = []
