@@ -1,0 +1,10 @@
+This was a project I did for a theatre class. I wanted to look into Shakespeare's quote "Brevity is the soul of wit" (basically meaning, concise people are the smartest).
+I looked at the average word count per line of characters throughout Shakespeare to see if I could find any patterns.
+
+Overall, I found no patterns, but the project was just a basic probe into the idea. If you are interested in the project, feel free to reach out and ask any questions.
+
+This was a silly idea that will probably be abandonded, but in case I want to come back to it
+Further improvements could be made:
+-If I detected the various subjects in a given line, I could maybe see if there was a stronger connection here. I.E. a character who speaks about more topics in the same
+ amount of time would be "wittier" than a character who only speaks about one in that time
+-Maybe use a site like sparknotes to translate what a character is saying, to a way that a concept detection model could work better 
